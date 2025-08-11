@@ -1,0 +1,150 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#f9fafb"/>
+  
+  <!-- Header -->
+  <rect width="1200" height="64" fill="white"/>
+  <rect x="0" y="64" width="1200" height="1" fill="#e5e7eb"/>
+  
+  <!-- Logo and Title -->
+  <circle cx="40" cy="32" r="12" fill="#2563eb"/>
+  <text x="64" y="38" font-family="system-ui" font-size="18" font-weight="600" fill="#111827">Recap Text</text>
+  
+  <!-- Navigation -->
+  <text x="200" y="38" font-family="system-ui" font-size="14" fill="#6b7280">Dashboard</text>
+  <text x="280" y="38" font-family="system-ui" font-size="14" fill="#6b7280">VoIP Setup</text>
+  <text x="360" y="38" font-family="system-ui" font-size="14" fill="#6b7280">Action Items</text>
+  
+  <!-- User Info -->
+  <text x="1050" y="38" font-family="system-ui" font-size="14" fill="#6b7280">Mike's Plumbing</text>
+  
+  <!-- Main Content Area -->
+  <rect x="32" y="96" width="1136" height="672" fill="transparent"/>
+  
+  <!-- Business Header Card -->
+  <rect x="48" y="112" width="1104" height="96" rx="8" fill="white" stroke="#e5e7eb"/>
+  <text x="72" y="140" font-family="system-ui" font-size="24" font-weight="700" fill="#111827">Mike's Plumbing Services</text>
+  <text x="72" y="164" font-family="system-ui" font-size="16" fill="#6b7280">Dashboard Overview</text>
+  
+  <!-- VoIP Setup Button -->
+  <rect x="1000" y="132" width="120" height="40" rx="6" fill="#2563eb"/>
+  <circle cx="1020" cy="152" r="8" fill="white"/>
+  <text x="1036" y="156" font-family="system-ui" font-size="14" fill="white">VoIP Setup</text>
+  
+  <!-- Stats Cards Row -->
+  <!-- Total Calls Card -->
+  <rect x="48" y="232" width="264" height="120" rx="8" fill="white" stroke="#e5e7eb"/>
+  <text x="72" y="260" font-family="system-ui" font-size="14" font-weight="500" fill="#6b7280">Total Calls</text>
+  <text x="72" y="290" font-family="system-ui" font-size="36" font-weight="700" fill="#111827">127</text>
+  <text x="72" y="314" font-family="system-ui" font-size="14" fill="#16a34a">+12% from last month</text>
+  
+  <!-- Pending Actions Card -->
+  <rect x="336" y="232" width="264" height="120" rx="8" fill="white" stroke="#e5e7eb"/>
+  <text x="360" y="260" font-family="system-ui" font-size="14" font-weight="500" fill="#6b7280">Pending Actions</text>
+  <text x="360" y="290" font-family="system-ui" font-size="36" font-weight="700" fill="#111827">23</text>
+  <text x="360" y="314" font-family="system-ui" font-size="14" fill="#dc2626">3 urgent items</text>
+  
+  <!-- Completed Calls Card -->
+  <rect x="624" y="232" width="264" height="120" rx="8" fill="white" stroke="#e5e7eb"/>
+  <text x="648" y="260" font-family="system-ui" font-size="14" font-weight="500" fill="#6b7280">Completed Calls</text>
+  <text x="648" y="290" font-family="system-ui" font-size="36" font-weight="700" fill="#111827">104</text>
+  <text x="648" y="314" font-family="system-ui" font-size="14" fill="#16a34a">82% completion rate</text>
+  
+  <!-- Processing Card -->
+  <rect x="912" y="232" width="264" height="120" rx="8" fill="white" stroke="#e5e7eb"/>
+  <text x="936" y="260" font-family="system-ui" font-size="14" font-weight="500" fill="#6b7280">Processing</text>
+  <text x="936" y="290" font-family="system-ui" font-size="36" font-weight="700" fill="#111827">4</text>
+  <text x="936" y="314" font-family="system-ui" font-size="14" fill="#f59e0b">AI transcribing...</text>
+  
+  <!-- Recent Calls Table -->
+  <rect x="48" y="376" width="1104" height="384" rx="8" fill="white" stroke="#e5e7eb"/>
+  
+  <!-- Table Header -->
+  <rect x="48" y="376" width="1104" height="48" rx="8" fill="#f9fafb"/>
+  <text x="72" y="404" font-family="system-ui" font-size="14" font-weight="500" fill="#374151">Recent Calls</text>
+  
+  <!-- Table Column Headers -->
+  <text x="72" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Customer</text>
+  <text x="280" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Date</text>
+  <text x="420" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Duration</text>
+  <text x="540" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Status</text>
+  <text x="680" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Actions</text>
+  <text x="900" y="436" font-family="system-ui" font-size="12" font-weight="500" fill="#6b7280">Summary</text>
+  
+  <!-- Table Rows -->
+  <!-- Row 1 -->
+  <rect x="64" y="452" width="1072" height="1" fill="#e5e7eb"/>
+  <text x="72" y="476" font-family="system-ui" font-size="14" fill="#111827">Sarah Johnson</text>
+  <text x="72" y="492" font-family="system-ui" font-size="12" fill="#6b7280">(555) 123-4567</text>
+  <text x="280" y="476" font-family="system-ui" font-size="14" fill="#111827">Jan 29, 2025</text>
+  <text x="280" y="492" font-family="system-ui" font-size="12" fill="#6b7280">2:15 PM</text>
+  <text x="420" y="484" font-family="system-ui" font-size="14" fill="#111827">8m 32s</text>
+  
+  <!-- Status Badge -->
+  <rect x="540" y="472" width="72" height="24" rx="12" fill="#dcfce7"/>
+  <text x="564" y="486" font-family="system-ui" font-size="12" font-weight="500" fill="#16a34a">Completed</text>
+  
+  <text x="680" y="484" font-family="system-ui" font-size="14" fill="#111827">3 items</text>
+  <text x="900" y="476" font-family="system-ui" font-size="14" fill="#111827">Kitchen sink repair consultation</text>
+  <text x="900" y="492" font-family="system-ui" font-size="12" fill="#6b7280">Schedule follow-up visit, order parts...</text>
+  
+  <!-- Row 2 -->
+  <rect x="64" y="508" width="1072" height="1" fill="#e5e7eb"/>
+  <text x="72" y="532" font-family="system-ui" font-size="14" fill="#111827">Bob Martinez</text>
+  <text x="72" y="548" font-family="system-ui" font-size="12" fill="#6b7280">(555) 987-6543</text>
+  <text x="280" y="532" font-family="system-ui" font-size="14" fill="#111827">Jan 29, 2025</text>
+  <text x="280" y="548" font-family="system-ui" font-size="12" fill="#6b7280">11:45 AM</text>
+  <text x="420" y="540" font-family="system-ui" font-size="14" fill="#111827">12m 18s</text>
+  
+  <!-- Status Badge -->
+  <rect x="540" y="528" width="80" height="24" rx="12" fill="#fef3c7"/>
+  <text x="560" y="542" font-family="system-ui" font-size="12" font-weight="500" fill="#d97706">Processing</text>
+  
+  <text x="680" y="540" font-family="system-ui" font-size="14" fill="#6b7280">-</text>
+  <text x="900" y="532" font-family="system-ui" font-size="14" fill="#111827">Water heater installation quote</text>
+  <text x="900" y="548" font-family="system-ui" font-size="12" fill="#6b7280">AI transcribing audio...</text>
+  
+  <!-- Row 3 -->
+  <rect x="64" y="564" width="1072" height="1" fill="#e5e7eb"/>
+  <text x="72" y="588" font-family="system-ui" font-size="14" fill="#111827">Emily Chen</text>
+  <text x="72" y="604" font-family="system-ui" font-size="12" fill="#6b7280">(555) 456-7890</text>
+  <text x="280" y="588" font-family="system-ui" font-size="14" fill="#111827">Jan 28, 2025</text>
+  <text x="280" y="604" font-family="system-ui" font-size="12" fill="#6b7280">4:20 PM</text>
+  <text x="420" y="596" font-family="system-ui" font-size="14" fill="#111827">15m 44s</text>
+  
+  <!-- Status Badge -->
+  <rect x="540" y="584" width="72" height="24" rx="12" fill="#dcfce7"/>
+  <text x="564" y="598" font-family="system-ui" font-size="12" font-weight="500" fill="#16a34a">Completed</text>
+  
+  <text x="680" y="596" font-family="system-ui" font-size="14" fill="#111827">5 items</text>
+  <text x="900" y="588" font-family="system-ui" font-size="14" fill="#111827">Bathroom renovation planning</text>
+  <text x="900" y="604" font-family="system-ui" font-size="12" fill="#6b7280">Material list, timeline, permits...</text>
+  
+  <!-- Row 4 -->
+  <rect x="64" y="620" width="1072" height="1" fill="#e5e7eb"/>
+  <text x="72" y="644" font-family="system-ui" font-size="14" fill="#111827">David Park</text>
+  <text x="72" y="660" font-family="system-ui" font-size="12" fill="#6b7280">(555) 321-0987</text>
+  <text x="280" y="644" font-family="system-ui" font-size="14" fill="#111827">Jan 28, 2025</text>
+  <text x="280" y="660" font-family="system-ui" font-size="12" fill="#6b7280">9:30 AM</text>
+  <text x="420" y="652" font-family="system-ui" font-size="14" fill="#111827">6m 22s</text>
+  
+  <!-- Status Badge -->
+  <rect x="540" y="640" width="72" height="24" rx="12" fill="#dcfce7"/>
+  <text x="564" y="654" font-family="system-ui" font-size="12" font-weight="500" fill="#16a34a">Completed</text>
+  
+  <text x="680" y="652" font-family="system-ui" font-size="14" fill="#111827">2 items</text>
+  <text x="900" y="644" font-family="system-ui" font-size="14" fill="#111827">Emergency leak repair</text>
+  <text x="900" y="660" font-family="system-ui" font-size="12" fill="#6b7280">Immediate response, part replacement</text>
+  
+  <!-- View Details Links -->
+  <text x="1080" y="484" font-family="system-ui" font-size="12" fill="#2563eb">View</text>
+  <text x="1080" y="540" font-family="system-ui" font-size="12" fill="#6b7280">View</text>
+  <text x="1080" y="596" font-family="system-ui" font-size="12" fill="#2563eb">View</text>
+  <text x="1080" y="652" font-family="system-ui" font-size="12" fill="#2563eb">View</text>
+  
+  <!-- Action Items Summary at bottom -->
+  <text x="72" y="700" font-family="system-ui" font-size="14" font-weight="500" fill="#374151">Urgent Action Items:</text>
+  <text x="72" y="720" font-family="system-ui" font-size="12" fill="#dc2626">• Order 3/4" copper pipes for Johnson job</text>
+  <text x="72" y="736" font-family="system-ui" font-size="12" fill="#dc2626">• Schedule permit inspection for Chen bathroom</text>
+  <text x="72" y="752" font-family="system-ui" font-size="12" fill="#f59e0b">• Follow up with Martinez on installation date</text>
+</svg>
